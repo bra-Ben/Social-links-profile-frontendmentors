@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Blog Preview Card](https://www.frontendmentor.io/solutions/blog-preview-card-4o4Zm--o-O)
-- Live Site URL: [Blog Preview Card ](https://bra-ben.github.io/Blog-preview-card/)
+- Solution URL: [Blog Preview Card](https://www.frontendmentor.io/solutions/social-links-profile-hA_TBSVdTd)
+- Live Site URL: [Blog Preview Card ](https://bra-ben.github.io/Social-links-profile-frontendmentors/)
 
 
 ## My process
@@ -44,6 +44,8 @@ Users should be able to:
 - Semantic HTML5 markup
 - Flexbox
 - Mobile-first workflow
+- Font Face
+- focus state
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
